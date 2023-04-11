@@ -9,5 +9,5 @@ Soy un desarrollador con +5 años de experiencia. Siempre busco capacitarme y as
 [![skill](https://github.com/raq-dev/raq-dev/blob/main/database.png "Bases de Datos Relacionales")]()
 
 ## Encuentrame en
-- Busca más detalles en <a href="https://www.linkedin.com/in/rolandoayalaquiroga/">LinkedIn</a> 
+- Busca más detalles en <a href="https://www.linkedin.com/in/rolando-ayala-quiroga/">LinkedIn</a> 
 - Sígueme en <a href="">Instagram</a>
